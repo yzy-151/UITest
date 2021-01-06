@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UITestNew</string>
+    <string name="buttonSignIn">登录</string>
+    <string name="textAccountNumber">账号：</string>
+    <string name="textPassward">密码：</string>
+    <string name="buttonSignUp">注册</string>
+    <string name="username_hint">请输入账号</string>
+    <string name="password_hint">请输入密码</string>
+    <string name="text_version">version_1.0_createdByYZY</string>
+    <string name="button1">校园论坛</string>
+    <string name="button2">校园动态</string>
+    <string name="button3">个人主页</string>
+    <string name="editText">Name</string>
+    <string name="button">登录</string>
+    <string name="text">TODO</string>
+    <string name="mima">密码</string>
+    <string name="username">用户名</string>
+    <string name="version1_2_0">version1.2.0</string>
+    <string name="textview">好家伙我学到了</string>
+</resources>
